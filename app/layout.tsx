@@ -1,6 +1,6 @@
 import { FC, memo, PropsWithChildren } from 'react';
 
-import { inter } from './fonts';
+import { inter } from './ui/fonts';
 
 import '@/app/ui/global.css';
 
